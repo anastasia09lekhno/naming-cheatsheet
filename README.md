@@ -377,3 +377,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 Изменение 2 в branch2
 Изменение 3 в branc1
 Изменение 4 в branch1
+Изменение 5 в branch1
